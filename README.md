@@ -8,6 +8,10 @@ I enjoy building practical AI-powered applications, automation workflows, chatbo
 
 ---
 
+
+
+![ARSHAD](arshad-github.svg)
+
 ### 👨‍💻 About Me
 
 - 🎓 BS Computer Science
