@@ -10,7 +10,7 @@ I enjoy building practical AI-powered applications, automation workflows, chatbo
 
 
 
-![ARSHAD](Arshad.svg)
+![ARSHAD](ARSHADI.svg)
 
 ### 👨‍💻 About Me
 
